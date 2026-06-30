@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS "customer";
+
+DROP TABLE IF EXISTS "invoice";
+
+DROP TABLE IF EXISTS "payment";
+
+DROP TABLE IF EXISTS "account";
